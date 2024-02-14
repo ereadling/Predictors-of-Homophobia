@@ -50,3 +50,22 @@ Within this analysis, class and education level respond similarly in relation to
 
 More research is needed to better understand what characteristics of fundamentalist religious beliefs are associated with homophobia. Addressing key characteristics of these beliefs could be important for elimating these bigoted values.
 
+## References
+Jones, J. M. (2023, June 27). Fewer in U.S. say same-sex relations morally acceptable. Gallup.com. https://news.gallup.com/poll/507230/fewer-say-sex-relations-morally-acceptable.aspx 
+
+Jones, J. M. (2023a, June 5). LGBT identification in U.S. ticks up to 7.1%. Gallup.com. https://news.gallup.com/poll/389792/lgbt-identification-ticks-up.aspx 
+
+Lingiardi, V., Falanga, S., & D’augelli, A. R. (2005). The evaluation of homophobia in an Italian sample. Archives of sexual behavior, 34, 81-93.
+
+Nagoshi, J. L., Adams, K. A., Terrell, H. K., Hill, E. D., Brzuzy, S., & Nagoshi, C. T. (2008). Gender differences in correlates of homophobia and transphobia. Sex roles, 59, 521-531.
+
+Renzetti, C. M., & Edleson, J. L. (Eds.) (2008). Encyclopedia of interpersonal violence. (Vols. 1-2). SAGE Publications, Inc., https://doi.org/10.4135/9781412963923, pg. 338
+
+Schwartz, J. P., & Lindley, L. D. (2005). " Religious Fundamentalism and Attachment: Prediction of Homophobia". The International Journal for the Psychology of Religion, 15(2), 145-157.
+
+Smith, S. J., Axelton, A. M., & Saucier, D. A. (2009). The effects of contact on sexual prejudice: A meta-analysis. Sex Roles, 61, 178-191.
+
+Ventriglio, A., Castaldelli-Maia, J., Torales, J., De Berardis, D., & Bhugra, D. (2021). Homophobia and mental health: A scourge of modern era. Epidemiology and Psychiatric Sciences, 30, E52. doi:10.1017/S2045796021000391, pg. 1-3
+
+
+
