@@ -21,17 +21,29 @@ The variables used in this study (homophobia, household income, education level,
 ### Univariate
 The response deemed homophobic was low in the sample (~8%).
 
+<img width="611" alt="homophobia" src="https://github.com/ereadling/Predictors-of-Homophobia/assets/159862778/56fdb89a-8b16-419e-b1c0-f082ba64e069">
+
 A Household income was most concentrated in the $30,000-$65,000 range.
+
+<img width="615" alt="income" src="https://github.com/ereadling/Predictors-of-Homophobia/assets/159862778/2535b96a-f4cc-42e4-9cf3-5fd9447796ca">
 
 The most common education level was high school (40%), followed by bachelors (26%).
 
+<img width="606" alt="education" src="https://github.com/ereadling/Predictors-of-Homophobia/assets/159862778/24e88f72-d3df-4d94-90de-ede1f845d5bd">
+
 Fundamentalism was the least common response to religious identification (15%), compared to moderate (39%) an liberal (39%).
+
+<img width="609" alt="religious identification" src="https://github.com/ereadling/Predictors-of-Homophobia/assets/159862778/5f61a0d5-906f-4063-b8bb-5017cb4d23f4">
 
 ### Bivariate
 
 As expected, Chi-Squared analysis showed that respondents who identified themselves as fundamentalist were significantly more likely to express homophobic beliefs (19%) compared to those who identified as moderate (6%) or liberal (4%), X2=43.9, 2 df, p<.01 (Figure 1). However, there was not a statistically significant difference between those who identified as moderate and those who identified as liberal p=0.85.
 
+<img width="445" alt="fundgay" src="https://github.com/ereadling/Predictors-of-Homophobia/assets/159862778/bfe5c1b8-6628-479f-9e66-95b7abcf7143">
+
 Chi-Squared analysis also showed that generally the presence of homophobia decreased as the highest level of education increased (Figure 2), X2=45.0, 4 df, p<.01, although those with associates degrees were not shown to be statistically different than other education levels p=1 (except < high school, p=0.01) and there was not a significant difference between bachelors and graduate degrees p=1.
+
+<img width="439" alt="edugay" src="https://github.com/ereadling/Predictors-of-Homophobia/assets/159862778/94060e49-5c87-4351-b0b4-16b751193fb0">
 
 Although in the sample, women exhibited more homophobic views than men, Chi-Squared analysis showed this difference to be non-significant, X2=12.8, 3 df, p=0.35.
 
@@ -40,9 +52,14 @@ Although in the sample, women exhibited more homophobic views than men, Chi-Squa
 At each education level, those who identified as fundamentalist exhibited the largest probability of homophobia (Figure 4).
 When controlling for education level, religious identification was still significantly correlated with homophobic beliefs, p<0.001. Those who identified as moderate were 0.30x as likely to be homophobic as fundamentalists and those who identified as liberal were 0.21x as likely across education level.
 
+<img width="629" alt="multivariate-degree" src="https://github.com/ereadling/Predictors-of-Homophobia/assets/159862778/1c4c747f-2427-4390-8db1-29bb00e9ac45">
+
 At each income level, the probability of homophobia is highest for fundamentalists with probabilities for moderates and liberals being similarly lower (Figure 3).
 
+<img width="617" alt="multivariate-income" src="https://github.com/ereadling/Predictors-of-Homophobia/assets/159862778/d5ed9bed-99f1-4d63-9543-5fa14f600622">
+
 When controlling for income level, religious identification was still predictive of homophobia. Moderates were 0.31x as likely to be homophobic than fundamentalists and liberals were 0.20x as likely across income level.
+
 
 ## Discussion
 In agreement with prior research, fundamentalism is predictive of homophobia regardless of education level or class.
