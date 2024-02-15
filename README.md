@@ -49,16 +49,16 @@ Although in the sample, women exhibited more homophobic views than men, Chi-Squa
 
 ### Multivariate
 
-At each education level, those who identified as fundamentalist exhibited the largest probability of homophobia (Figure 4).
-When controlling for education level, religious identification was still significantly correlated with homophobic beliefs, p<0.001. Those who identified as moderate were 0.30x as likely to be homophobic as fundamentalists and those who identified as liberal were 0.21x as likely across education level.
+Logistic Analysis was used to test multivariate correlations. At each education level, those who identified as fundamentalist exhibited the largest probability of homophobia (Figure 4).
+When controlling for education level, religious identification was still significantly correlated with homophobic beliefs, p<0.001. Those who identified as fundamentalist were 3.3x more likely to be homophobic than moderates and 4.8x more likely than liberals **across education level**.
 
 <img width="629" alt="multivariate-degree" src="https://github.com/ereadling/Predictors-of-Homophobia/assets/159862778/1c4c747f-2427-4390-8db1-29bb00e9ac45">
 
-At each income level, the probability of homophobia is highest for fundamentalists with probabilities for moderates and liberals being similarly lower (Figure 3).
+At each income level, the probability of homophobia is highest for fundamentalists with probabilities for moderates and liberals being similarly low (Figure 3).
 
 <img width="617" alt="multivariate-income" src="https://github.com/ereadling/Predictors-of-Homophobia/assets/159862778/d5ed9bed-99f1-4d63-9543-5fa14f600622">
 
-When controlling for income level, religious identification was still predictive of homophobia. Moderates were 0.31x as likely to be homophobic than fundamentalists and liberals were 0.20x as likely across income level.
+When controlling for income level, religious identification was still predictive of homophobia. Fundamentalists were 3.2x more likely to be homophobic than moderates and 5x more likely than liberals **across income level**.
 
 
 ## Discussion
