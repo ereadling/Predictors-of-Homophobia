@@ -1,4 +1,5 @@
 # The Association Between Religious Fundamentalism and Homophobic Beliefs as mediated by gender, class, and education level.
+To see the full set of graphs and statistical analyses (including the R code) check out the html file.
 
 ## Abstract
 The morality of same-sex relationships is a controversial topic within American culture. While approval ratings have increased by 24% in the past two decades , the rate of acceptance dropped 7% from 2022 to 2023 (71 to 64% respectively)(Jones, 2023). Previous research on the predictors of homophobia have found an association between religious fundamentalism and homophobic beliefs although this association has not been thoroughly explored. This study, based on data from the 2021 General Social Survey, finds that religious fundamentalism continues to be a significant predictor of homophobia when controlling for class and level of education. Furthermore, findings show that, generally, the presence of homophobic beliefs drops as education and income level increases within the sample.
